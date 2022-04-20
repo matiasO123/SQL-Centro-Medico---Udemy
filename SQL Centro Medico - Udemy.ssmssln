@@ -1,0 +1,44 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# SQL Server Management Studio Solution File, Format Version 18.00
+VisualStudioVersion = 15.0.28307.421
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{2F3175D8-C39B-48B5-9B0F-C3B7CC4D8EA0}"
+	ProjectSection(SolutionItems) = preProject
+		ClaveForaneaCrear.sql = ClaveForaneaCrear.sql
+		Estructuras de control.sql = Estructuras de control.sql
+		F_ConcatenarVariables.sql = F_ConcatenarVariables.sql
+		Joins.sql = Joins.sql
+		Multiples_Queries_Basicas.sql = Multiples_Queries_Basicas.sql
+		Operadores aritméticos.sql = Operadores aritméticos.sql
+		OperadoresLogicos.sql = OperadoresLogicos.sql
+		SP_CreacionPaciente.sql = SP_CreacionPaciente.sql
+		SP_Creación ejemplo.sql = SP_Creación ejemplo.sql
+		SP_CrearMedico.sql = SP_CrearMedico.sql
+		SP_CrearTurno.sql = SP_CrearTurno.sql
+		SP_ejemplo.sql = SP_ejemplo.sql
+		SP_getPaciente.sql = SP_getPaciente.sql
+		SP_TurnosPaciente.sql = SP_TurnosPaciente.sql
+		SQLQuery3.sql = SQLQuery3.sql
+		T_Paciente.sql = T_Paciente.sql
+		TablaPacienteCrear.sql = TablaPacienteCrear.sql
+		TablaTemporal.sql = TablaTemporal.sql
+		TipoDatoCrear.sql = TipoDatoCrear.sql
+		transactions.sql = transactions.sql
+		V_turnosPendientes.sql = V_turnosPendientes.sql
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Default|Default = Default|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4F78677B-38CB-4357-B0F5-122CE15662EE}.Default|Default.ActiveCfg = Default
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {858E69E8-FCAC-41D9-94AE-9A1A5C60D19F}
+	EndGlobalSection
+EndGlobal
